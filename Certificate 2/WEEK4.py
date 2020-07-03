@@ -2,13 +2,9 @@
 """
 Created on Thu Jul  2 19:23:41 2020
 
-@author: Sourick
+@author: Sourick, Somraj Chowdhury 
+
 """
-
-
-'''
-Project: File differences
-'''
 
 IDENTICAL = -1
 
