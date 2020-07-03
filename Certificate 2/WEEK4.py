@@ -2,7 +2,7 @@
 """
 Created on Thu Jul  2 19:23:41 2020
 
-@author: Sourick, Somraj Chowdhury 
+@author: Soujatya Bhattacharya, Somraj Chowdhury 
 
 """
 

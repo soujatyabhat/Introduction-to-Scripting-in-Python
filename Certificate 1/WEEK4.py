@@ -2,7 +2,7 @@
 """
 Created on Fri Jul  3 08:27:47 2020
 
-@author: Sourick , Somraj Chowdhury 
+@author: Soujatya Bhattacharya , Somraj Chowdhury 
 """
 
 import datetime
